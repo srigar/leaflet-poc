@@ -23,6 +23,14 @@
   color: #61dafb;
 }
 
+#map {
+  height: 100vh
+}
+
+body {
+  margin: 0px
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
