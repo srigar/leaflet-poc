@@ -1,4 +1,5 @@
 import React from 'react';
+import 'leaflet/dist/leaflet.css'
 import Leaflet from './leaflet';
 import './App.css';
 
